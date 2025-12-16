@@ -42,6 +42,8 @@ local.properties
 *.log
 *.apk
 !releases/*.apk
+*.ipa
+!releases/*.ipa
 *.aab
 
 # Environment

@@ -21,11 +21,15 @@
 
 ---
 
-## Download APK
+## Download
 
 <p align="center">
   <a href="https://github.com/Spettacolo83/br3ach/raw/main/releases/Br3ach-v1.0.0-preview.apk">
-    <img src="https://img.shields.io/badge/Download-APK%20v1.0.0-00FF88?style=for-the-badge&logo=android" alt="Download APK"/>
+    <img src="https://img.shields.io/badge/Download-Android%20APK-00FF88?style=for-the-badge&logo=android" alt="Download APK"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Spettacolo83/br3ach/raw/main/releases/Br3ach-v1.0.0-preview.ipa">
+    <img src="https://img.shields.io/badge/Download-iOS%20IPA-007AFF?style=for-the-badge&logo=apple" alt="Download IPA"/>
   </a>
 </p>
 
@@ -37,6 +41,17 @@
    - Abilita l'opzione per il browser o file manager che utilizzi
 3. **Apri il file APK** scaricato e tocca "Installa"
 4. **Avvia l'app** Br3ach dal menu delle applicazioni
+
+### Installazione su iOS
+
+1. **Scarica l'IPA** cliccando sul badge sopra o [da questo link](https://github.com/Spettacolo83/br3ach/raw/main/releases/Br3ach-v1.0.0-preview.ipa)
+2. **Installa con uno di questi metodi:**
+   - **Xcode:** `Window > Devices and Simulators` → trascina l'IPA sul dispositivo
+   - **Apple Configurator 2:** Trascina l'IPA sull'icona del dispositivo
+   - **Diawi.com:** Carica l'IPA per ottenere un link installabile
+3. **Autorizza lo sviluppatore** su iPhone: `Impostazioni > Generali > Gestione dispositivo`
+
+> **Nota:** L'IPA richiede che il dispositivo sia registrato nel profilo di provisioning Ad Hoc. Per distribuzione più ampia, usa TestFlight.
 
 > **Nota:** Questa è una versione preview/demo dell'MVP. Alcune funzionalità sono simulate per scopi dimostrativi.
 
