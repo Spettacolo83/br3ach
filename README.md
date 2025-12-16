@@ -21,6 +21,27 @@
 
 ---
 
+## Download APK
+
+<p align="center">
+  <a href="https://github.com/Spettacolo83/br3ach/raw/main/releases/Br3ach-v1.0.0-preview.apk">
+    <img src="https://img.shields.io/badge/Download-APK%20v1.0.0-00FF88?style=for-the-badge&logo=android" alt="Download APK"/>
+  </a>
+</p>
+
+### Installazione su Android
+
+1. **Scarica l'APK** cliccando sul badge sopra o [da questo link](https://github.com/Spettacolo83/br3ach/raw/main/releases/Br3ach-v1.0.0-preview.apk)
+2. **Abilita "Origini sconosciute"** nelle impostazioni del tuo dispositivo:
+   - Vai in `Impostazioni > Sicurezza > Origini sconosciute` (o `Installa app sconosciute`)
+   - Abilita l'opzione per il browser o file manager che utilizzi
+3. **Apri il file APK** scaricato e tocca "Installa"
+4. **Avvia l'app** Br3ach dal menu delle applicazioni
+
+> **Nota:** Questa è una versione preview/demo dell'MVP. Alcune funzionalità sono simulate per scopi dimostrativi.
+
+---
+
 ## Panoramica
 
 **Br3ach** è un'applicazione mobile all-in-one per la protezione dell'identità digitale. Progettata per rendere la cybersecurity accessibile a tutti, l'app combina tecnologie avanzate in un'interfaccia semplice e intuitiva.
